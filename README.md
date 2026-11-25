@@ -29,20 +29,14 @@ agent-based systems, and a future grounded in technological ethics.
 | Field | Value |
 | :--- | :--- |
 | **Handle** | `@paulinopaul` |
-| **Name / Alias** | `<!-- TODO: Your name or alias -->` *[Add name / alias]* |
-| **Location / Timezone** | `<!-- TODO: City, Country (Timezone) -->` *[Add location]* |
-| **Languages** | `<!-- TODO: e.g., Spanish (Native), English (Fluent) -->` *[Add languages]* |
-| **Personal Interests** | `<!-- TODO: Hobbies, hardware tinkering, music, gaming, reading -->` *[Add hobbies & interests]* |
-| **Now Playing (Winamp)** | `<!-- TODO: Track / Artist / Album -->` *[Add current track or vibe]* |
-| **Motto / Fun Fact** | `<!-- TODO: Personal motto or fun fact -->` *[Add motto or fun fact]* |
-
+| **Languages** | `<!-- TODO: e.g., Spanish (Native), English (Fluent) -->` Spanish & English |
 <br />
 
 <div align="center">
   <img src="./assets/divider-chrome.svg" alt="Y2K Chrome Divider" width="100%" />
 </div>
 
-## `02 // WORKSPACE_PRO.EXE`
+## `02 // WORKSPACE_PRO.E`
 
 <!-- ==================== PROFESSIONAL DATA: FILL BELOW ==================== -->
 <!-- Tip: Replace bracketed placeholders [like this] with your experience, education, and stack. -->
