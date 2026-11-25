@@ -24,49 +24,46 @@ Telecom Student passionate about IoT, deep learning,
 agent-based systems, and a future grounded in technological ethics.
 ```
 
-<!-- ==================== PERSONAL DATA: EDIT BELOW ==================== -->
-
 | Field | Value |
 | :--- | :--- |
 | **Handle** | `@paulinopaul` |
-| **Languages** | `<!-- TODO: e.g., Spanish (Native), English (Fluent) -->` Spanish & English |
+| **Languages** | Spanish & English |
+
 <br />
 
 <div align="center">
   <img src="./assets/divider-chrome.svg" alt="Y2K Chrome Divider" width="100%" />
 </div>
 
-## `02 // WORKSPACE_PRO.E`
-
-<!-- ==================== PROFESSIONAL DATA: FILL BELOW ==================== -->
-<!-- Tip: Replace bracketed placeholders [like this] with your experience, education, and stack. -->
+## `02 // WORKSPACE_PRO.EXE`
 
 ### `> ABOUT_ME.TXT`
 
-> *[TODO: Add a 2–3 line professional summary — your academic specialization, engineering focus, and the kind of problems or roles you are targeting.]*
+> Telecommunications Engineering student focused on Artificial Intelligence, Satellite and Wireless Communications, and IoT.
 
-### `> EDUCATION_&_CERTS.LOG`
+### `> EDUCATION.LOG`
 
-| Program / Certification | Institution | Period | Focus / Highlights |
+| Program | Institution | Period | Focus |
 | :--- | :--- | :--- | :--- |
-| **Telecommunications Engineering** *(In Progress)* | *[University Name]* | *[YYYY – Present]* | *[Key coursework, thesis, or lab focus]* |
-| *[Certification / Course]* | *[Issuer / Platform]* | *[YYYY]* | *[Relevant credential or specialization]* |
+| **B.S. in Telecommunications Engineering** | UNMSM | 2024 – Present | IoT, Wireless Networks, Electronics, Machine Learning |
 
 ### `> EXPERIENCE_&_RESEARCH.DAT`
 
-- **`[Role / Research Position]`** @ *[Organization / Lab / Company]* (`[MMM YYYY – MMM YYYY]`)
-  - *[TODO: Describe what you built, measured, or researched (protocols, models, hardware, or impact).]*
-- **`[Role / Freelance / Internship]`** @ *[Organization / Project]* (`[MMM YYYY – MMM YYYY]`)
-  - *[TODO: Add key technical contribution or outcome.]*
+- **`Embedded Systems Engineer`** @ *OrionTel CubeSat 1U Project* (`Dec 2025 – Present`)
+  - Structural and payload design for a 1U CubeSat competing in CNPS 2025; `ESP32-S3` telemetry (`BME280/BME680`, `MPU-6050`, `NEO-8M` GPS, `LTR390` UV), `LoRa RFM95/SX1278` orbital comms, and parachute recovery.
+- **`Robotics Developer`** @ *Autonomous Laboratory Robot Project* (`Oct 2026 – Present`)
+  - Autonomous lab logistics robot built on `ESP32` and `ToF` sensors for real-time spatial mapping, obstacle avoidance, and on-board AI navigation.
+- **`Project Lead / Developer`** @ *Hardware & Firmware Development (UNMSM)* (`Apr 2026 – Sep 2026`)
+  - Engineered a `FreeRTOS`/`C++` embedded node with `LSTM` models for real-time landslide prediction in Chosica, and a 3D-printed `ESP32-S3` Wi-Fi wearable AI assistant pin interfacing with cloud LLM APIs.
 
 ### `> TECH_STACK_&_HARDWARE.CFG`
 
 | Domain | Stack & Tools |
 | :--- | :--- |
-| **Languages** | <kbd>Python</kbd> <kbd>C++</kbd> <kbd>Lua</kbd> <kbd>QML</kbd> *[+ Add more]* |
-| **IoT & Telecom** | *[e.g., ESP32, STM32, MQTT, RF / SDR, Embedded Linux]* |
-| **AI & Agents** | *[e.g., PyTorch, Deep Learning, Multi-Agent Systems, LLMs]* |
-| **Systems & Tooling** | *[e.g., Linux, Git, Docker, Neovim, KiCad]* |
+| **Languages** | <kbd>C++</kbd> <kbd>Python</kbd> <kbd>Golang</kbd> <kbd>Rust</kbd> <kbd>Lua</kbd> <kbd>QML</kbd> |
+| **IoT, RF & Embedded** | `ESP32 / ESP32-S3`, `FreeRTOS`, `LoRaWAN / RFM95`, `MQTT`, `ToF Sensors` |
+| **AI & Telemetry** | `Deep Learning`, `Computer Vision`, `LSTM`, `Cloud LLM APIs` |
+| **Hardware & Systems** | `Linux`, `Git`, `SMD Micro-soldering`, `Circuit Board Diagnosis`, `Cloud Computing` |
 
 <br />
 
@@ -76,15 +73,12 @@ agent-based systems, and a future grounded in technological ethics.
 
 ## `03 // C_PROJECTS_DIR`
 
-<!-- Pre-linked from your public GitHub repositories — add 1-line summaries & highlights below -->
-
 | Directory | Primary Tech | Summary & Impact |
 | :--- | :--- | :--- |
-| [`C:\PROJECTS\robot_sumo_usando_agentes_ia`](https://github.com/paulinopaul/robot_sumo_usando_agentes_ia) | <kbd>C++</kbd> | *[TODO: Describe robot architecture, agent logic, sensors, or competition results.]* |
-| [`C:\PROJECTS\quickshell-cocoa`](https://github.com/paulinopaul/quickshell-cocoa) | <kbd>QML</kbd> | *[TODO: Describe your custom desktop shell / UI concept and features.]* |
-| [`C:\PROJECTS\obsidian-context`](https://github.com/paulinopaul/obsidian-context) | <kbd>Python</kbd> | *[TODO: Describe knowledge-graph / context automation workflow.]* |
-| [`C:\PROJECTS\dotfiles`](https://github.com/paulinopaul/dotfiles) | <kbd>Lua</kbd> | *[TODO: Describe your Neovim / Linux / terminal environment setup.]* |
-| *`C:\PROJECTS\next-featured-project`* | <kbd>TBD</kbd> | *[TODO: Add upcoming professional or research project + link.]* |
+| [`C:\PROJECTS\robot_sumo_usando_agentes_ia`](https://github.com/paulinopaul/robot_sumo_usando_agentes_ia) | <kbd>C++</kbd> | Autonomous & teleoperated 2WD Sumo robot on `ESP32` (`ESP-NOW` 2.4 GHz, `Bluetooth SPP`, `Wokwi` sim) developed with AI-agent workflows. |
+| [`C:\PROJECTS\quickshell-cocoa`](https://github.com/paulinopaul/quickshell-cocoa) | <kbd>QML</kbd> | Modular, reactive Wayland desktop shell for `Hyprland` built with `Quickshell` (`Qt6`/`QML`) and 206 passing tests. |
+| [`C:\PROJECTS\obsidian-context`](https://github.com/paulinopaul/obsidian-context) | <kbd>Python</kbd> | Zero-dependency Agent Skill for persistent engineering memory, ADRs, and Obsidian Graph View `[[wikilinks]]`. |
+| [`C:\PROJECTS\dotfiles`](https://github.com/paulinopaul/dotfiles) | <kbd>Lua</kbd> | Modular Arch Linux & `Hyprland` desktop dotfiles (`Ghostty`, `Caelestia`, symlinked config architecture). |
 
 <br />
 
@@ -94,16 +88,12 @@ agent-based systems, and a future grounded in technological ethics.
 
 ## `04 // NET_LINKS.HTML`
 
-<!-- ==================== CONTACT & LINKS: EDIT BELOW ==================== -->
-
 <div align="center">
 
 | Channel | Link |
 | :--- | :--- |
-| **LinkedIn** | *[Add LinkedIn URL]* |
-| **Portfolio / CV** | *[Add Portfolio or Resume URL]* |
-| **Email** | *[Add public contact email]* |
-| **Other Social** | *[Add X / Discord / Mastodon / etc.]* |
+| **GitHub** | [@paulinopaul](https://github.com/paulinopaul) |
+| **LinkedIn** | [paul-angelo-landeo-aucapina](https://www.linkedin.com/in/paul-angelo-landeo-aucapina/) |
 
 <br />
 
