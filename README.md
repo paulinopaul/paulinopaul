@@ -1,19 +1,21 @@
 <div align="center">
-  <img src="./assets/hero-banner.svg" alt="paulinopaul Y2K Cyber-OS Banner" width="100%" />
+  <img src="./assets/hero-banner.svg" alt="paulinopaul Cassette Futurism Workstation Banner" width="100%" />
   <br />
-  <img src="./assets/status-winamp.svg" alt="Y2K Telemetry Equalizer Deck" width="100%" />
+  <a href="https://github.com/paul-angelo-landeo-aucapina">
+    <img src="./assets/cassette-deck.svg" alt="Cassette Futurism Telemetry Deck linked to Academic Account" width="100%" />
+  </a>
 </div>
 
 <div align="center">
   <br />
-  <code>C:\USERS\PAULINOPAUL&gt;</code>
+  <code>UNIT-02 // WORKSTATION.SYS</code> ·
   <kbd>TELECOM</kbd> · <kbd>IOT</kbd> · <kbd>DEEP LEARNING</kbd> · <kbd>AGENT SYSTEMS</kbd> · <kbd>TECH ETHICS</kbd>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="./assets/divider-chrome.svg" alt="Y2K Chrome Divider" width="100%" />
+  <img src="./assets/divider-rack.svg" alt="Cassette Futurism Rack Divider" width="100%" />
 </div>
 
 ## `01 // USER_PROFILE.DAT`
@@ -26,16 +28,17 @@ agent-based systems, and a future grounded in technological ethics.
 
 | Field | Value |
 | :--- | :--- |
-| **Handle** | `@paulinopaul` |
+| **Primary Handle** | `@paulinopaul` *(Main & Personal Projects)* |
+| **Academic Account** | **[@paul-angelo-landeo-aucapina](https://github.com/paul-angelo-landeo-aucapina)** *(UNMSM & University Research)* |
 | **Languages** | Spanish & English |
 
 <br />
 
 <div align="center">
-  <img src="./assets/divider-chrome.svg" alt="Y2K Chrome Divider" width="100%" />
+  <img src="./assets/divider-rack.svg" alt="Cassette Futurism Rack Divider" width="100%" />
 </div>
 
-## `02 // WORKSPACE_PRO.EXE`
+## `02 // ENGINEERING_DOSSIER.LOG`
 
 ### `> ABOUT_ME.TXT`
 
@@ -45,7 +48,7 @@ agent-based systems, and a future grounded in technological ethics.
 
 | Program | Institution | Period | Focus |
 | :--- | :--- | :--- | :--- |
-| **B.S. in Telecommunications Engineering** | UNMSM | 2024 – Present | IoT, Wireless Networks, Electronics, Machine Learning |
+| **B.S. in Telecommunications Engineering** | UNMSM | `2024 – Present` | IoT, Wireless Networks, Electronics, Machine Learning |
 
 ### `> EXPERIENCE_&_RESEARCH.DAT`
 
@@ -60,51 +63,52 @@ agent-based systems, and a future grounded in technological ethics.
 
 | Domain | Stack & Tools |
 | :--- | :--- |
-| **Languages** | <kbd>C++</kbd> <kbd>Python</kbd> <kbd>Golang</kbd> <kbd>Rust</kbd> <kbd>Lua</kbd> <kbd>QML</kbd> |
-| **IoT, RF & Embedded** | `ESP32 / ESP32-S3`, `FreeRTOS`, `LoRaWAN / RFM95`, `MQTT`, `ToF Sensors` |
+| **Languages** | <kbd>C</kbd> <kbd>C++</kbd> <kbd>Rust</kbd> <kbd>Go</kbd> <kbd>Python</kbd> <kbd>Lua</kbd> <kbd>QML</kbd> |
+| **IoT, RF & Networking** | `ESP32 / ESP32-S3`, `GNS3`, `FreeRTOS`, `LoRaWAN / RFM95`, `MQTT`, `ToF Sensors` |
 | **AI & Telemetry** | `Deep Learning`, `Computer Vision`, `LSTM`, `Cloud LLM APIs` |
 | **Hardware & Systems** | `Linux`, `Git`, `SMD Micro-soldering`, `Circuit Board Diagnosis`, `Cloud Computing` |
 
 <br />
 
 <div align="center">
-  <img src="./assets/divider-chrome.svg" alt="Y2K Chrome Divider" width="100%" />
+  <img src="./assets/divider-rack.svg" alt="Cassette Futurism Rack Divider" width="100%" />
 </div>
 
-## `03 // C_PROJECTS_DIR`
+## `03 // PERSONAL_PROJECTS_TAPE.IDX`
 
-| Directory | Primary Tech | Summary & Impact |
+| Module | Primary Tech | Summary & Impact |
 | :--- | :--- | :--- |
-| [`C:\PROJECTS\robot_sumo_usando_agentes_ia`](https://github.com/paulinopaul/robot_sumo_usando_agentes_ia) | <kbd>C++</kbd> | Autonomous & teleoperated 2WD Sumo robot on `ESP32` (`ESP-NOW` 2.4 GHz, `Bluetooth SPP`, `Wokwi` sim) developed with AI-agent workflows. |
-| [`C:\PROJECTS\quickshell-cocoa`](https://github.com/paulinopaul/quickshell-cocoa) | <kbd>QML</kbd> | Modular, reactive Wayland desktop shell for `Hyprland` built with `Quickshell` (`Qt6`/`QML`) and 206 passing tests. |
-| [`C:\PROJECTS\obsidian-context`](https://github.com/paulinopaul/obsidian-context) | <kbd>Python</kbd> | Zero-dependency Agent Skill for persistent engineering memory, ADRs, and Obsidian Graph View `[[wikilinks]]`. |
-| [`C:\PROJECTS\dotfiles`](https://github.com/paulinopaul/dotfiles) | <kbd>Lua</kbd> | Modular Arch Linux & `Hyprland` desktop dotfiles (`Ghostty`, `Caelestia`, symlinked config architecture). |
+| [`/projects/robot_sumo_usando_agentes_ia`](https://github.com/paulinopaul/robot_sumo_usando_agentes_ia) | <kbd>C++</kbd> | Autonomous & teleoperated 2WD Sumo robot on `ESP32` (`ESP-NOW` 2.4 GHz, `Bluetooth SPP`, `Wokwi` sim) developed with AI-agent workflows. |
+| [`/projects/quickshell-cocoa`](https://github.com/paulinopaul/quickshell-cocoa) | <kbd>QML</kbd> | Modular, reactive Wayland desktop shell for `Hyprland` built with `Quickshell` (`Qt6`/`QML`) and 206 passing tests. |
+| [`/projects/obsidian-context`](https://github.com/paulinopaul/obsidian-context) | <kbd>Python</kbd> | Zero-dependency Agent Skill for persistent engineering memory, ADRs, and Obsidian Graph View `[[wikilinks]]`. |
+| [`/projects/dotfiles`](https://github.com/paulinopaul/dotfiles) | <kbd>Lua</kbd> | Modular Arch Linux & `Hyprland` desktop dotfiles (`Ghostty`, `Caelestia`, symlinked config architecture). |
 
 <br />
 
 <div align="center">
-  <img src="./assets/divider-chrome.svg" alt="Y2K Chrome Divider" width="100%" />
+  <img src="./assets/divider-rack.svg" alt="Cassette Futurism Rack Divider" width="100%" />
 </div>
 
-## `04 // NET_LINKS.HTML`
+## `04 // LINKED_TERMINALS.NET`
 
 <div align="center">
 
 | Channel | Link |
 | :--- | :--- |
-| **GitHub** | [@paulinopaul](https://github.com/paulinopaul) |
+| **GitHub (Main & Personal)** | [@paulinopaul](https://github.com/paulinopaul) |
+| **GitHub (Academic & UNMSM)** | [@paul-angelo-landeo-aucapina](https://github.com/paul-angelo-landeo-aucapina) |
 | **LinkedIn** | [paul-angelo-landeo-aucapina](https://www.linkedin.com/in/paul-angelo-landeo-aucapina/) |
 
 <br />
 
-<img src="./assets/blinkies/y2k-online.gif" alt="Status Online Y2K" width="88" height="31" />
-<img src="./assets/blinkies/telecom-iot.gif" alt="Telecom and IoT Lab" width="88" height="31" />
-<img src="./assets/blinkies/ai-agents.gif" alt="Deep AI and Agents" width="88" height="31" />
-<img src="./assets/blinkies/tech-ethics.gif" alt="Tech Ethics First" width="88" height="31" />
-<img src="./assets/blinkies/built-in-tty.gif" alt="Built in Terminal" width="88" height="31" />
+<img src="./assets/plates/sys-online.svg" alt="SYS: ONLINE" width="132" height="30" />
+<img src="./assets/plates/telecom-iot.svg" alt="TELECOM+IOT" width="132" height="30" />
+<img src="./assets/plates/ai-agents.svg" alt="AI + AGENTS" width="132" height="30" />
+<img src="./assets/plates/tech-ethics.svg" alt="TECH ETHICS" width="132" height="30" />
+<img src="./assets/plates/built-in-tty.svg" alt="BUILT IN TTY" width="132" height="30" />
 
 <br /><br />
 
-<sub><code>SYSTEM READY // Y2K INTERFACE v2.000 // @PAULINOPAUL</code></sub>
+<sub><code>UNIT-02 // CASSETTE FUTURISM WORKSTATION // @PAULINOPAUL &lt;-&gt; @PAUL-ANGELO-LANDEO-AUCAPINA</code></sub>
 
 </div>
